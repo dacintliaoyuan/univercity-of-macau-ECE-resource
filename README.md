@@ -39,7 +39,9 @@ cisc是记得去考试就行
 *里面的sorce code部分不用管*
 
 <img width="2425" height="1268" alt="屏幕截图 2025-11-29 164802_edit_1276044418307887" src="https://github.com/user-attachments/assets/ca4037d0-4171-474d-8769-7020dbd6e94c" />
+
 ## 课程吐槽/评价
+
 ### ECEN1011
 我说韋sir神中神，有没有懂的
 
