@@ -4,8 +4,10 @@
 由于本专业自身特殊性和封闭性，在网上很难找到有关的公开资料与资源，因此难以像CS专业成系统性的学习。故在此提供作者本人所能搜集到的资源
 # 课程安排
 https://www.fst.um.edu.mo/ece/bsc-programme/
+
 在此处可查询课程信息及安排，此处提及只为了解释一些课程信息
-<img width="1697" height="1028" alt="image" src="https://github.com/user-attachments/assets/fa485003-59af-4612-907a-85800d3a5123" />
+<img width="2118" height="1290" alt="image" src="https://github.com/user-attachments/assets/877b28f6-f49a-424d-a22f-263c6e69cb23" />
+
 ## 白色部分
 ECEN均为必修课程
 ## 蓝色部分
@@ -17,8 +19,7 @@ cisc是记得去考试就行
 ## 粉红色部分
 体育课和书院课，基本上均为大一大二的课程
 ## 棕黄色部分
-该部分就是内地的通识课，主要说明以下几点
-
+该部分就是内地的通识课，主要说明以下几点 
 1. GEST1004是微积分课，ECE专业大一上必修，这个不能免掉，不然会卡进度
 2. GESB1000就是学长学姐口中的“三合一”，这个目前在课表上是GESB1017
 3. 最下面的GE是选择GESB，GELH，GEGA这三个领域中的任意一个课程即可（三个都要选择一个）
