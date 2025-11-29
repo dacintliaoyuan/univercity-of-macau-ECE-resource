@@ -1,12 +1,13 @@
 # univercity-of-macau-ECE-major-resource
 # 前言
-本仓库旨在为澳大ECE本科专业的同学提供课上的一些ppt和考试相关的资料及个人学习建议
+本仓库旨在为澳大ECE本科专业的同学提供课上的一些ppt和考试相关的资料及个人学习建议，**同时也会提供微电子方向的书籍**
 
-由于本专业自身特殊性和封闭性，在网上很难找到有关的公开资料与资源，因此难以像CS专业成系统性的学习。故在此提供作者本人所能搜集到的资源，希望能够为你的学习提供对应的帮助
+由于本专业自身特殊性和封闭性，在网上很难找到有关的公开资料与资源，因此难以像CS专业成系统性的学习。故为倡导开源精神，在此提供作者本人所能搜集到的资源，希望能够为你的学习提供对应的帮助
 # 课程安排
 https://www.fst.um.edu.mo/ece/bsc-programme/
 
 在此处可查询课程信息及安排，此处提及只为了解释一些课程信息
+
 <img width="2118" height="1290" alt="image" src="https://github.com/user-attachments/assets/877b28f6-f49a-424d-a22f-263c6e69cb23" />
 
 ## 白色部分
@@ -30,11 +31,13 @@ cisc是记得去考试就行
 ## 下载
 课程的ppt和试卷可以直接在release（发行版）里面下载
 对于熟悉github的同学可以跳过，此处是给不熟悉这一部分的同学讲解如何下载与使用
+
 1.如图,首先我们在仓库界面点进发行版
 <img width="2412" height="1255" alt="屏幕截图 2025-11-29 164740_edit_1276010077489663" src="https://github.com/user-attachments/assets/bfa6b231-8ee9-42ca-bed6-0b6c9722d754" />
 2.在发行版中我们可以看到我们需要下载的课程资源（部分包含考试试卷），点击蓝色标题部分就可以直接下载了
 
 *里面的sorce code部分不用管*
+
 <img width="2425" height="1268" alt="屏幕截图 2025-11-29 164802_edit_1276044418307887" src="https://github.com/user-attachments/assets/ca4037d0-4171-474d-8769-7020dbd6e94c" />
 ## 课程吐槽/评价
 ### ECEN1011
@@ -58,9 +61,13 @@ cisc是记得去考试就行
 **本仓库里的内容默认不公开，请勿在公开场合宣传本仓库**
 
 **本仓库里的资料仅供学习交流使用，严禁用于商业用途**
+
+**欢迎各位同学向我提供相关资料、建议或者直接发起pullrequest，一同完善本仓库**
 # 相关链接
 [cs自学指南](https://csdiy.wiki)
 
 [澳大选咩课](https://www.umeh.top)
 
-[ark all官网](https://umall.one)
+[ark all官网](https://wiki.umall.one)
+
+[前面学长的github](https://github.com/UM-ARK/ECE_ARK_Database)
