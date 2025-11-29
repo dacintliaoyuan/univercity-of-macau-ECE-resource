@@ -16,6 +16,7 @@ ECEN均为必修课程
 RE为大三选修课程
 ## 绿色部分
 eelc为英语课，作者建议各位尽量在高考后考过雅思6.5来免修此课程，不然压力会很大
+ （关于免修和add/drop请看code里的[澳大新生入学相关建议](https://github.com/dacintliaoyuan/univercity-of-macau-ECE-resource/tree/main/%E6%BE%B3%E9%97%A8%E5%A4%A7%E5%AD%A6%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E7%9B%B8%E5%85%B3%E5%BB%BA%E8%AE%A)
 
 CHLL是中文课，PORT为葡语课，这两个课程是为了给高考语文分数低于一定成绩的人提供的，二选一即可（注意：**请看清楚课程是粤语还是普通话教学**）
 
