@@ -77,6 +77,8 @@ cisc是记得去考试就行
 [ark all官网](https://wiki.umall.one)
 
 [前面学长的github](https://github.com/UM-ARK/ECE_ARK_Database)
+
+[一个不用翻墙就能用chatgpt，Gemini等ai的网站，完全免费](https://lmarena.ai/)
 # 请作者喝杯奶茶
 如果你觉得该项目对你真的有帮助，可以给仓库点个 star 或者请作者喝一杯奶茶。
 ![qq_pic_merged_1764421980974](https://github.com/user-attachments/assets/923228c6-93b4-422b-98fa-ad6307b53386)
