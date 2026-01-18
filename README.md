@@ -33,14 +33,6 @@ cisc是记得去考试就行
 课程的ppt和试卷可以直接在release（发行版）里面下载
 对于熟悉github的同学可以跳过，此处是给不熟悉这一部分的同学讲解如何下载与使用
 
-1.如图,首先我们在仓库界面点进发行版
-<img width="2412" height="1255" alt="屏幕截图 2025-11-29 164740_edit_1276010077489663" src="https://github.com/user-attachments/assets/bfa6b231-8ee9-42ca-bed6-0b6c9722d754" />
-2.在发行版中我们可以看到我们需要下载的课程资源（部分包含考试试卷），点击蓝色标题部分就可以直接下载了
-
-*里面的sorce code部分不用管*
-
-<img width="2425" height="1268" alt="屏幕截图 2025-11-29 164802_edit_1276044418307887" src="https://github.com/user-attachments/assets/ca4037d0-4171-474d-8769-7020dbd6e94c" />
-
 ## 课程吐槽/评价
 
 ### ECEN1011
