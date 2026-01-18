@@ -40,9 +40,9 @@ cisc是记得去考试就行
 
 ### 第二步：clone本仓库
 接着输入以下代码，点回车运行
-
+```bash
 git clone https://github.com/dacintliaoyuan/univercity-of-macau-ECE-resource.git
-
+```
 ### 第三步：等待下载完成，然后就可以运行啦
 
 ## 课程吐槽/评价
