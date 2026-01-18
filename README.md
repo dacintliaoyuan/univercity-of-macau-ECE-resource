@@ -30,8 +30,20 @@ cisc是记得去考试就行
 3. 最下面的GE是选择GESB，GELH，GEGA这三个领域中的任意一个课程即可（三个都要选择一个）
 # 课程相关
 ## 下载
-课程的ppt和试卷可以直接在release（发行版）里面下载
+课程的ppt和试卷可以直接在code里面下载
 对于熟悉github的同学可以跳过，此处是给不熟悉这一部分的同学讲解如何下载与使用
+
+### 第一步：打开cmd
+先用win + R，接着输入cmd，点击确定
+
+<img width="609" height="316" alt="image" src="https://github.com/user-attachments/assets/25cf8b43-e515-417d-b251-51c55550e7c9" />
+
+### 第二步：clone本仓库
+接着输入以下代码，点回车运行
+
+git clone https://github.com/dacintliaoyuan/univercity-of-macau-ECE-resource.git
+
+### 第三步：等待下载完成，然后就可以运行啦
 
 ## 课程吐槽/评价
 
